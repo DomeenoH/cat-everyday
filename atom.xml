@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cat.dominoh.com</id>
     <title>每日一猫 | 多米诺的涂鸦</title>
-    <updated>2020-04-21T16:07:01.119Z</updated>
+    <updated>2020-04-21T16:07:56.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cat.dominoh.com"/>
     <link rel="self" href="https://cat.dominoh.com/atom.xml"/>
