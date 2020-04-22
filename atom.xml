@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cat.dominoh.com</id>
-    <title>每日一猫 | 多米诺的涂鸦</title>
-    <updated>2020-04-21T16:43:54.096Z</updated>
+    <title>每日一猫</title>
+    <updated>2020-04-22T13:13:44.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cat.dominoh.com"/>
     <link rel="self" href="https://cat.dominoh.com/atom.xml"/>
     <subtitle>多米诺好强啊</subtitle>
     <logo>https://cat.dominoh.com/images/avatar.png</logo>
     <icon>https://cat.dominoh.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, 每日一猫 | 多米诺的涂鸦</rights>
+    <rights>All rights reserved 2020, 每日一猫</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-04-22]]></title>
+        <id>https://cat.dominoh.com/post/2020-04-22/</id>
+        <link href="https://cat.dominoh.com/post/2020-04-22/">
+        </link>
+        <updated>2020-04-22T13:12:43.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1587561202684.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-04-21]]></title>
         <id>https://cat.dominoh.com/post/2020-04-21/</id>

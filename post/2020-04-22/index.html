@@ -24,6 +24,12 @@
 
 <!-- Comment -->
 
+    
+
+    
+        <link rel="stylesheet" href="https://unpkg.com/disqusjs@1.1/dist/disqusjs.css"/>
+    
+
 
 
 <!-- katex -->
@@ -35,7 +41,7 @@
 
 </head>
 <body>
-<div id="fh5co-offcanvas">
+    <div id="fh5co-offcanvas">
     <a href="#!" class="fh5co-close-offcanvas js-fh5co-close-offcanvas">
         <span><i class="icon-cross3"></i> <span>Close</span></span>
     </a>
@@ -135,21 +141,89 @@
 </header>
 
 
-<div class="container-fluid" style="height: 100%;">
-    <div class="row fh5co-post-entry">
+    <!--  <a href="#" class="fh5co-post-prev"><span>👈 Prev</span></a>-->
+    <!--  <a href="#" class="fh5co-post-next"><span>Next 👉</span></a>-->
 
+    <!-- 等gridea出自定义页面功能再优化一下 -->
+    
+        <div class="container-fluid">
+    <div class="row fh5co-post-entry single-entry">
+        <article class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+            <figure class="animate-box">
+                
+                    <img src="https://cat.dominoh.com/post-images/2020-04-22.png" alt="2020-04-22" class="img-responsive">
+                
+            </figure>
+            <span class="fh5co-meta animate-box">
+                
+            </span>
+            <h2 class="fh5co-article-title animate-box">2020-04-22</h2>
+            <ol class="breadcrumb fh5co-meta fh5co-date animate-box" style="margin-bottom:0; background-color:#f8f9fa">
+                <li>2020-04-22</li>
+                <li>0字</li>
+                <li>0 min read</li>
+            </ol>
+
+            <div class="col-lg-12 col-lg-offset-0 col-md-12 col-md-offset-0 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-left content-article">
+                <div class="row">
+                    <div class="col-md-12 animate-box post-content">
+                        <p> <figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1587561202684.png" alt="" loading="lazy"></figure>
+ </p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12 animate-box">
+                        
+                            <div class="next-post">
+                                <div class="next">下一篇</div>
+                                <a href="https://cat.dominoh.com/post/2020-04-21/">
+                                    <h3 class="post-title">
+                                        2020-04-21
+                                    </h3>
+                                </a>
+                            </div>
+                        
+                    </div>
+                </div>
+
+                <div class="row">
+    <div class="col-md-12 animate-box">
         
-        <div class="clearfix visible-lg-block visible-md-block visible-sm-block visible-xs-block"></div>
+            
 
+            
+                <div id="disqus_thread"></div>
+            
+        
     </div>
+</div>
+
+            </div>
+
+        </article>
+    </div>
+</div>
+
+    
+
+    <!-- 返回顶部 -->
+    <div class="back-to-top">
+    
+    <a href="#top" class="hidden-xs hidden-sm"><i class="fa fa-paper-plane"></i></a>
+</div>
+
+<div class="post-toc animated fadeInRight hidden-xs hidden-sm" style="display: none;">
+    
+</div>
+
 
     <footer id="fh5co-footer">
   <p>&copy; 2020<script>new Date().getFullYear()>2020&&document.write("-"+new Date().getFullYear());</script> <a href="http://dominoh.com">多米诺</a> | ALL RIGHTS RESERVED.</p>
 </footer>
 <script type="text/javascript" color="130,130,130" opacity='0.9' zIndex="-0.5" count="99" src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js"></script>
-</div>
 
-<!-- jQuery -->
+    <!-- jQuery -->
 <script src="https://cat.dominoh.com/media/scripts/jquery.min.js"></script>
 <!-- img lazy load -->
 <script src="https://cat.dominoh.com/media/scripts/jquery.lazyload.min.js"></script>
@@ -190,6 +264,26 @@
 
     
 </script>
+
+
+
+    
+
+    
+        <script src="https://unpkg.com/disqusjs@1.1/dist/disqus.js"></script>
+        <script>
+
+            var options = {
+                shortname: 'cat-12',
+                apikey: 'KYJ0wl1QR9q7x7vnbTlix8sx8VIaUzcfyExThZoumJeDImODgJdHTjwTk6JFAFTC',
+            }
+            if ('') {
+                options.api = ''
+            }
+            var dsqjs = new DisqusJS(options)
+
+        </script>
+    
 
 
 
