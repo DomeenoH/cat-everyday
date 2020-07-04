@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cat.dominoh.com</id>
     <title>每日一猫</title>
-    <updated>2020-07-02T16:50:30.155Z</updated>
+    <updated>2020-07-04T15:06:13.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cat.dominoh.com"/>
     <link rel="self" href="https://cat.dominoh.com/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://cat.dominoh.com/images/avatar.png</logo>
     <icon>https://cat.dominoh.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 每日一猫</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-07-04]]></title>
+        <id>https://cat.dominoh.com/post/2020-07-04/</id>
+        <link href="https://cat.dominoh.com/post/2020-07-04/">
+        </link>
+        <updated>2020-07-04T15:05:17.000Z</updated>
+        <content type="html"><![CDATA[<p>、<img src="https://cat.dominoh.com/post-images/1593875155173.jpeg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-07-03]]></title>
+        <id>https://cat.dominoh.com/post/2020-07-03/</id>
+        <link href="https://cat.dominoh.com/post/2020-07-03/">
+        </link>
+        <updated>2020-07-04T15:03:18.000Z</updated>
+        <content type="html"><![CDATA[<p>咳</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-07-02]]></title>
         <id>https://cat.dominoh.com/post/2020-07-02/</id>
@@ -170,24 +188,6 @@
         </link>
         <updated>2020-06-15T14:36:29.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1592231820264.jpeg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-06-14]]></title>
-        <id>https://cat.dominoh.com/post/2020-06-14/</id>
-        <link href="https://cat.dominoh.com/post/2020-06-14/">
-        </link>
-        <updated>2020-06-14T15:38:58.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1592149161735.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-06-13]]></title>
-        <id>https://cat.dominoh.com/post/2020-06-13/</id>
-        <link href="https://cat.dominoh.com/post/2020-06-13/">
-        </link>
-        <updated>2020-06-13T16:27:14.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1592065662572.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
