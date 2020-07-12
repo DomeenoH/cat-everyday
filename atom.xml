@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cat.dominoh.com</id>
     <title>每日一猫</title>
-    <updated>2020-07-11T15:15:50.911Z</updated>
+    <updated>2020-07-12T15:40:38.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cat.dominoh.com"/>
     <link rel="self" href="https://cat.dominoh.com/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://cat.dominoh.com/images/avatar.png</logo>
     <icon>https://cat.dominoh.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 每日一猫</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-07-12]]></title>
+        <id>https://cat.dominoh.com/post/2020-07-12/</id>
+        <link href="https://cat.dominoh.com/post/2020-07-12/">
+        </link>
+        <updated>2020-07-12T15:40:04.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1594568431096.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-07-11]]></title>
         <id>https://cat.dominoh.com/post/2020-07-11/</id>
@@ -179,15 +188,6 @@
         </link>
         <updated>2020-06-23T15:46:04.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1592927187947.jpeg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-06-22]]></title>
-        <id>https://cat.dominoh.com/post/2020-06-22/</id>
-        <link href="https://cat.dominoh.com/post/2020-06-22/">
-        </link>
-        <updated>2020-06-22T15:21:22.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1592839316123.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
