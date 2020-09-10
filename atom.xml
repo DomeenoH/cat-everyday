@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cat.dominoh.com</id>
-    <title>每日一猫</title>
-    <updated>2020-09-07T14:16:08.811Z</updated>
+    <title>时不时一猫</title>
+    <updated>2020-09-10T14:20:33.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cat.dominoh.com"/>
     <link rel="self" href="https://cat.dominoh.com/atom.xml"/>
     <subtitle>多米诺好强啊</subtitle>
     <logo>https://cat.dominoh.com/images/avatar.png</logo>
     <icon>https://cat.dominoh.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, 每日一猫</rights>
+    <rights>All rights reserved 2020, 时不时一猫</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-09-10]]></title>
+        <id>https://cat.dominoh.com/post/2020-09-10/</id>
+        <link href="https://cat.dominoh.com/post/2020-09-10/">
+        </link>
+        <updated>2020-09-10T14:19:54.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1599747605755.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-09-07]]></title>
         <id>https://cat.dominoh.com/post/2020-09-07/</id>
@@ -179,15 +188,6 @@
         </link>
         <updated>2020-08-20T13:11:22.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1597929117495.jpeg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-08-19]]></title>
-        <id>https://cat.dominoh.com/post/2020-08-19/</id>
-        <link href="https://cat.dominoh.com/post/2020-08-19/">
-        </link>
-        <updated>2020-08-19T14:35:53.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cat.dominoh.com/post-images/1597847770233.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
